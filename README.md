@@ -31,7 +31,7 @@ se hizo un label con la clase dark-mode-button el cual contenía un input de typ
 cuando este activo el modo oscuro y cuando no lo este, con una función JavaScript para invertir el modo en la página web 
 además de los estilos CSS no se lleva acabó la función de este modo con  FILTER: INVERT(100%)el cual cumple la función deseada. 
 
-#API 
+# API 
 
 En el test se pedia consumir un API de carácter publico y que la información se reflejará en tarjetas, para esto 
 seleccioné una API que simula el comportamiento de Netflix en una página para esto cree un array en PHP 
